@@ -51,49 +51,7 @@
 							<i class="material-icons">arrow_downward</i>Downloads
 							<b class="caret"></b>
 						</a>
-				<!-- 		<ul class="dropdown-menu dropdown-with-icons">
-							<li>
-								<a href="sections.html#headers">
-									<i class="material-icons">dns</i> Headers
-								</a>
-							</li>
-							<li>
-								<a href="sections.html#features">
-									<i class="material-icons">build</i> Features
-								</a>
-							</li>
-							<li>
-								<a href="sections.html#blogs">
-									<i class="material-icons">list</i> Blogs
-								</a>
-							</li>
-							<li>
-								<a href="sections.html#teams">
-									<i class="material-icons">people</i> Teams
-								</a>
-							</li>
-							<li>
-								<a href="sections.html#projects">
-									<i class="material-icons">assignment</i> Projects
-								</a>
-							</li>
-							<li>
-								<a href="sections.html#pricing">
-									<i class="material-icons">monetization_on</i> Pricing
-								</a>
-							</li>
-							<li>
-								<a href="sections.html#testimonials">
-									<i class="material-icons">chat</i> Testimonials
-								</a>
-							</li>
-							<li>
-								<a href="sections.html#contactus">
-									<i class="material-icons">call</i> Contacts
-								</a>
-							</li>
-
-						</ul> -->
+				
 					</li>
 					<li>
 						<a href="about-us.php" target="_blank" class="btn btn-white btn-simple">
